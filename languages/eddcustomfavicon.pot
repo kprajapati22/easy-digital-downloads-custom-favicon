@@ -1,0 +1,151 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Digital Downloads - Custom Favicon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-22 07:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: eddcustomfavicon"
+
+#. Description of the plugin
+msgid "Adds a custom favicon to the EDD shopping cart"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:68
+msgid "Background Color"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:98
+msgid "Badge Animation"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:87
+msgid "Badge Shape"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:81
+msgid "Bold"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:91
+msgid "Circle"
+msgstr ""
+
+#: edd-custom-favicon.php:66
+msgid "CLICK HERE"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:31
+msgid "Custom Favicon"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:49
+msgid "Custom Favicon Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "Easy Digital Downloads - Custom Favicon"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:104
+msgid "Fade"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:55
+msgid "Favicon"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:75
+msgid "Font Style"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/kprajapati22"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:56
+msgid "If your theme doesn't natively support favicons, upload one here!"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:80
+msgid "Italic"
+msgstr ""
+
+#: edd-custom-favicon.php:65
+msgid ""
+"Its seems to be Easy Digital Downloads is not activated. Please first active "
+"Easy digital downloads. If you don't have Easy Digital Downloads then"
+msgstr ""
+
+#. Author of the plugin
+msgid "kprajapati22"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:102
+msgid "None"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:79
+msgid "Normal"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:105
+msgid "Pop"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:106
+msgid "Pop/Fade"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:107
+msgid "Random"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:92
+msgid "Rectangle"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:76
+msgid "Set the style for the badge text"
+msgstr ""
+
+#: edd-custom-favicon.php:91
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:103
+msgid "Slide"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:99
+msgid "Specify the animation for badge updates"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:69
+msgid "Specify the background color for the icon"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:62
+msgid "Specify the color for the icon text"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:88
+msgid "Specify the shape of the badge"
+msgstr ""
+
+#: includes/admin/class-edd-custom-favicon-admin.php:61
+msgid "Text Color"
+msgstr ""
+
+#: edd-custom-favicon.php:67
+msgid "to download"
+msgstr ""
