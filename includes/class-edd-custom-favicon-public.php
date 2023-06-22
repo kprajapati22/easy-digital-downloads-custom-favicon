@@ -1,7 +1,14 @@
-<?php 
+<?php
+/**
+ * Handles front end functionality.
+ *
+ * @package Easy Digital Downloads - Custom Favicon
+ */
 
-// Exit if accessed directly
-if ( !defined( 'ABSPATH' ) ) exit;
+// Exit if accessed directly.
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
 
 /**
  * Public Pages Class
@@ -11,29 +18,25 @@ if ( !defined( 'ABSPATH' ) ) exit;
  * @package Easy Digital Downloads - Custom Favicon
  * @since 1.0.0
  */
-class Edd_Custom_Favicon_PublicPages {
-	
-	public function __construct() {
-		//constructer code here
-	}
-	
+class Edd_Custom_Favicon_Public {
+
 	/**
 	 * Conditionally add favicon
 	 *
-	 * @package 	Easy Digital Downloads - Custom Favicon
+	 * @package     Easy Digital Downloads - Custom Favicon
 	 * @since       1.0.0
 	 */
 	public function edd_custom_favicon_add_favicon() {
-		
-		//get favicon
+
+		// get favicon.
 		$favicon = edd_get_option( 'edd_custom_favicon_favicon', false );
-	
-		if( $favicon ) {
+
+		if ( $favicon ) {
 			$type = edd_get_file_ctype( $favicon );
-			echo '<link rel="icon" href="' . esc_url( $favicon ) . '" type="' . $type . '" />';
+			echo '<link rel="icon" href="' . esc_url( $favicon ) . '" type="' . $type . '" />'; // phpcs:ignore
 		}
 	}
-	
+
 	/**
 	 * Adding Hooks
 	 *
@@ -41,9 +44,9 @@ class Edd_Custom_Favicon_PublicPages {
 	 * @since 1.0.0
 	 */
 	public function add_hooks() {
-		
-		// Add favicon
+
+		// Add favicon.
 		add_action( 'wp_head', array( $this, 'edd_custom_favicon_add_favicon' ) );
 	}
 }
-?>
+

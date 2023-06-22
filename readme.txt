@@ -2,8 +2,8 @@
 Contributors: kprajapati22
 Tags: Easy Digital Downloads, EDD, favicon, custom favicon, dynamic icon
 Requires at least: 3.0
-Tested up to: 4.9.2
-Stable tag: 1.0.1
+Tested up to: 6.2.2
+Stable tag: 1.0.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -35,6 +35,12 @@ None yet
 2. Favicon.
 
 == Changelog ==
+
+= Version 1.0.2 - 22/06/2023 =
+* Code optimization as per WPCS
+* Added settings tab name
+* Tested with WordPress 6.2.2
+* Tested with Easy Digital Downloads 3.1.2
 
 = Version 1.0.1 - 28/01/2018 =
 * Tested with WordPress 4.9.2 and Easy Digital Downloads 2.8.17
