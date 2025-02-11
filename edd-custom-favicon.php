@@ -1,12 +1,15 @@
 <?php
 /**
- * Plugin Name:     Easy Digital Downloads - Custom Favicon
- * Description:     Adds a custom favicon to the EDD shopping cart
- * Version:         1.0.3
- * Author:          kprajapati22
- * Author URI:      https://profiles.wordpress.org/kprajapati22
- * Text Domain:     eddcustomfavicon
+ * Plugin Name: Easy Digital Downloads - Custom Favicon
+ * Plugin URI: https://wordpress.org/plugins/easy-digital-downloads-custom-favicon/
+ * Description: Adds a custom favicon to the EDD shopping cart
+ * Version: 1.0.4
+ * Author: Kalpesh Prajapati
+ * Author URI: https://profiles.wordpress.org/kprajapati22
+ * Text Domain: eddcustomfavicon
  * License: GPLv2
+ * Requires at least: 5.0
+ * Requires PHP: 7.4
  *
  * @package Easy Digital Downloads - Custom Favicon
  */
@@ -23,7 +26,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @since 1.0.0
  */
 if ( ! defined( 'EDD_CUSTOM_FAVICON_VERSION' ) ) {
-	define( 'EDD_CUSTOM_FAVICON_VERSION', '1.0.3' ); // version of plugin.
+	define( 'EDD_CUSTOM_FAVICON_VERSION', '1.0.4' ); // version of plugin.
 }
 if ( ! defined( 'EDD_CUSTOM_FAVICON_DIR' ) ) {
 	define( 'EDD_CUSTOM_FAVICON_DIR', dirname( __FILE__ ) ); // plugin dir.

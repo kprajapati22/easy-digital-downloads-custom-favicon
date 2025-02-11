@@ -1,9 +1,8 @@
 === Easy Digital Downloads - Custom Favicon ===
 Contributors: kprajapati22
 Tags: Easy Digital Downloads, EDD, favicon, custom favicon, dynamic icon
-Requires at least: 3.0
-Tested up to: 6.4.2
-Stable tag: 1.0.3
+Tested up to: 6.7
+Stable tag: 1.0.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -27,7 +26,14 @@ Adds a Custom updated favicon to Easy Digital Downloads. Displays how many items
 
 == Frequently Asked Questions ==
 
-None yet
+= Does this plugin work with any WordPress theme? =  
+Yes, this plugin is designed to work with any WordPress theme that supports Easy Digital Downloads.
+
+= Can I customize the favicon's appearance? =  
+Yes, the plugin provides customization options, including text color, background color, styles, and animation effects.
+
+= How can I get support if I run into issues? =  
+You can get support by visiting the [support forum](https://wordpress.org/support/plugin/easy-digital-downloads-custom-favicon/) or reaching out to the plugin developers.
 
 == Screenshots ==
 
@@ -35,6 +41,10 @@ None yet
 2. Favicon.
 
 == Changelog ==
+
+= Version 1.0.4 - 12/02/2025 =
+* Tested with WordPress 6.7.1
+* Tested with Easy Digital Downloads 3.3.6.1
 
 = Version 1.0.3 - 12/12/2023 =
 * Tested with WordPress 6.4.2
